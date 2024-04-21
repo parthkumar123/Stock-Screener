@@ -1,0 +1,20 @@
+{
+  "name": "stock_screener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "set NODE_ENV=development&&nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Parth Shiyani",
+  "license": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.4",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7"
+  }
+}
