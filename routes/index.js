@@ -8,6 +8,6 @@ const {
 } = require("../controllers/index");
 
 router.route("/")
-    .get(getStockList);
+    .post(getStockList);
 
 module.exports = router;
