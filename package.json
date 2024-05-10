@@ -17,6 +17,8 @@
     "nodemon": "^3.0.1",
     "path": "^0.12.7",
     "technicalindicators": "^3.1.0",
+    "uuid": "^9.0.1",
+    "winston": "^3.13.0",
     "yahoo-finance": "^0.3.8"
   }
 }
